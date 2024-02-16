@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fasakinhenry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -58,7 +58,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ![Fasakin Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasakinhenry&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=fasakinhenry&theme=gruvbox&border_radius=4.5) -->
 
 #
 

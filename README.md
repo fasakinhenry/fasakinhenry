@@ -50,15 +50,15 @@ I'm an indie full-stack developer and content creator building my version of the
 [![I made my own social media app](https://ytcards.demolab.com/?id=16N4bmEEcbE&title=I+made+my+own+social+media+app&lang=en&timestamp=1692753708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I made my own social media app")](https://www.youtube.com/watch?v=16N4bmEEcbE)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@henqsoft?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-87ff87?style=for-the-badge&logo=video&logoColor=287bff"/>](https://www.youtube.com/@henqsoft?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Fasakin Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasakinhenry&icon_color=87ff87&hide_border=true&text_color=87ff87&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&hide_border=true&text_color=87ff87&layout=compact&theme=transparent)
-![Fasakin Henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henqsoft&text_color=87ff87&hide_border=true&theme=transparent)
+![Fasakin Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasakinhenry&icon_color=87ff87&hide_border=true&text_color=87ff87&title_color=87ff87&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)
+![Fasakin Henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henqsoft&text_color=87ff87&title_color=87ff87&hide_border=true&theme=transparent)
 ![Fasakin Henry's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fasakinhenry&stroke=87ff87&ring=87ff87&fire=87ff87&currStreakNum=87ff87&currStreakLabel=87ff87&sideNums=87ff87&sideLabels=87ff87&dates=87ff87&hide_border=true&theme=transparent)
 <!-- <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a> -->
 <br/>

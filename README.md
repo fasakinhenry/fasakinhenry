@@ -62,7 +62,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-![gitartwork](gitartwork.svg)
+[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
 <details>
  <summary><h3>👨‍💻 Henry Fasakin's Coding Journey</h3></summary>

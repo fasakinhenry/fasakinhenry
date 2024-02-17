@@ -14,5 +14,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: fasakinhenry
-           text: FASAKIN
+           text: fasakinhenry
       - uses: jasineri/simple-push-action@v1

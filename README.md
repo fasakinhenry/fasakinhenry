@@ -62,7 +62,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
 
 <details>
  <summary><h3>👨‍💻 Henry Fasakin's Coding Journey</h3></summary>
@@ -75,6 +74,7 @@ I'm an indie full-stack developer and content creator building my version of the
 [twitter]: https://facebook.com/henry.fasakin.7
 </details>
 
+[![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/fasakinhenry)
 <!--
 **fasakinhenry/fasakinhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

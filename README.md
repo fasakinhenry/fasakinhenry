@@ -60,17 +60,23 @@ I'm an indie full-stack developer and content creator building my version of the
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)
 ![Fasakin Henry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henqsoft&text_color=87ff87&title_color=87ff87&hide_border=true&layout=compact&theme=transparent)
 ![Fasakin Henry's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fasakinhenry&stroke=87ff87&ring=87ff87&fire=87ff87&currStreakNum=87ff87&currStreakLabel=87ff87&sideNums=87ff87&sideLabels=87ff87&dates=87ff87&hide_border=true&theme=transparent)
-<!-- <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a> -->
-<br/>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=fasakinhenry&theme=gruvbox&border_radius=4.5) -->
+<br/>
 
 #
 
+- 🔭 I’m currently working on Labhood(A social media hub for developers)
+- 🌱 I’m currently learning Backend, Python and C.
+- 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
+- 🤔 I’m looking for help with Funding
+- 💬 Ask me about Tech(web development, Design, Linux), God, Music.
+- 📫 How to reach me: You can reach me via my email fasakinhenry@gmail.com or my social platforms listed above.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that😜👍. I love Music, football, tech events and doing a lot of different hobbies. I mean the list seems endless. I am an all-in-one package.
 
 <details>
  <summary><h3>👨‍💻 Henry Fasakin's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.,/detail
+   I started coding in the late 2018 when I recently finished my primary education after watching a Tv program that involved kids coding and that got me fascinated enough to start. I got some preliminary skills in Excel and VBA, coreldraw usage(Basically desktop publishing) before moving on to higher languages like C# and eventually web development technologies. I built a school management system with Excel and VBA and since then I have never looked back. I strive to be the best at everything I find myself doing and that propelled me to pick up other courses along my development Journey(including ALX software Engineering and Product design). I have also built a lot of websites and apps, games and softwares. I hope to become better and finally get to run my own App development agency or run a company. I noticed that I am also more of an Indie hacker which benefitted me by increasing the pace of my development chain. Till date, I still like building and shipping products.🚀🔥💖
 
 [website]: http://henqsoft.xyz
 [youtube]: https://youtube.com/henqsoft
@@ -79,18 +85,6 @@ I'm an indie full-stack developer and content creator building my version of the
 [twitter]: https://facebook.com/henry.fasakin.7
 </details>
 
+<br/>
+
 [![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/fasakinhenry)
-<!--
-**fasakinhenry/fasakinhenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -50,7 +50,7 @@ I'm an indie full-stack developer and content creator building my version of the
 [![I made my own social media app](https://ytcards.demolab.com/?id=16N4bmEEcbE&title=I+made+my+own+social+media+app&lang=en&timestamp=1692753708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I made my own social media app")](https://www.youtube.com/watch?v=16N4bmEEcbE)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@henqsoft?sub_confirmation=1)
 
 #
 

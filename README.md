@@ -57,8 +57,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 
 ![Fasakin Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasakinhenry&icon_color=347bff&hide_border=true&text_color=287bff&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&layout=compact&theme=transparent)
-<img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&hide_border=true&text_color=247cff&layout=compact&theme=transparent)
+<!-- <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a> -->
 <br/>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=fasakinhenry&theme=gruvbox&border_radius=4.5) -->

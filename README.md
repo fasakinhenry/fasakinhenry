@@ -36,7 +36,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br /><br/>
+<br />
 
 #
 
@@ -61,6 +61,8 @@ I'm an indie full-stack developer and content creator building my version of the
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=fasakinhenry&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+![gitartwork](gitartwork.svg)
 
 <details>
  <summary><h3>👨‍💻 Henry Fasakin's Coding Journey</h3></summary>

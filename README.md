@@ -22,9 +22,7 @@ I'm an indie full-stack developer and content creator building my version of the
   <a href="https://ko-fi.com/fasakinhenry"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 </p>
 
-#
-
-<p align="left">
+<p align="Left">
 	<a href="https://www.youtube.com/channel/UC17Ph4WVmtOTS--RgvhaQow?sub_confirmation=1">
 		<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC17Ph4WVmtOTS--RgvhaQow?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 	<a href="https://www.youtube.com/@henqsoft">

@@ -6,16 +6,34 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Product+designer)](https://git.io/typing-svg)
 
-   <p align="left">
-      <a href="https://www.youtube.com/channel/UC17Ph4WVmtOTS--RgvhaQow?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC17Ph4WVmtOTS--RgvhaQow?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@henqsoft">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC17Ph4WVmtOTS--RgvhaQow?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/fasakinhenry?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fasakinhenry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/fasakinhenry?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fasakinhenry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<!-- The social media sections area -->
+
+<p align="center">
+  <a href="https://www.youtube.com/@henqsoft"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/fasakin-henry/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/henqsoft"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/1149504042922430534" alt="Discord" title="Fasakin Henry's Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/fasakinhenry"><img width="32px" alt="Dev.to" title="Fasakin Henry Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/fasakinhenry"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+</p>
+
+#
+
+<p align="left">
+	<a href="https://www.youtube.com/channel/UC17Ph4WVmtOTS--RgvhaQow?sub_confirmation=1">
+		<img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC17Ph4WVmtOTS--RgvhaQow?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+	<a href="https://www.youtube.com/@henqsoft">
+		<img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC17Ph4WVmtOTS--RgvhaQow?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+	<a href="https://github.com/fasakinhenry?tab=followers">
+		<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/fasakinhenry?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+	<a href="https://github.com/fasakinhenry?tab=repositories&sort=stargazers">
+		<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/fasakinhenry?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 #
 
@@ -74,10 +92,12 @@ I'm an indie full-stack developer and content creator building my version of the
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that😜👍. I love Music, football, tech events and doing a lot of different hobbies. I mean the list seems endless. I am an all-in-one package.
 
+#
+
 <details>
  <summary><h3>👨‍💻 Henry Fasakin's Coding Journey</h3></summary>
    I started coding in the late 2018 when I recently finished my primary education after watching a Tv program that involved kids coding and that got me fascinated enough to start. I got some preliminary skills in Excel and VBA, coreldraw usage(Basically desktop publishing) before moving on to higher languages like C# and eventually web development technologies. I built a school management system with Excel and VBA and since then I have never looked back. I strive to be the best at everything I find myself doing and that propelled me to pick up other courses along my development Journey(including ALX software Engineering and Product design). I have also built a lot of websites and apps, games and softwares. I hope to become better and finally get to run my own App development agency or run a company. I noticed that I am also more of an Indie hacker which benefitted me by increasing the pace of my development chain. Till date, I still like building and shipping products.🚀🔥💖
-
+d
 [website]: http://henqsoft.xyz
 [youtube]: https://youtube.com/henqsoft
 [facebook]: https://facebook.com/henry.fasakin.7
@@ -85,6 +105,6 @@ I'm an indie full-stack developer and content creator building my version of the
 [twitter]: https://facebook.com/henry.fasakin.7
 </details>
 
-<br/>
+#
 
 [![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/fasakinhenry)

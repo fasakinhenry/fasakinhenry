@@ -70,7 +70,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Profile stats
+### 📊 Stats
 
 ![Fasakin Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasakinhenry&icon_color=87ff87&hide_border=true&text_color=87ff87&title_color=87ff87&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)

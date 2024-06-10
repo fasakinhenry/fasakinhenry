@@ -37,6 +37,18 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
+- 🔭 I’m currently working on **Payham**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Labhood**(A social media hub for developers)
+- 🌱 I’m learning Web technologies, Backend, Python, and C.
+- 💻 I'm currently part of the Wema Hackaholics and Pipeops Hackathon
+- 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
+- 🤔 I’m looking for help with Funding
+- 💬 Ask me about Tech(web development, Design, Linux), God, Music.
+- 📫 How to reach me: You can reach me via my email fasakinhenry@gmail.com or my social platforms
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that😜👍. I love Music, football, tech events, and doing a lot of different hobbies. I mean the list seems endless. I am an all-in-one package.
+
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -73,7 +85,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
+### 📊 Github Stats
 
 ![Fasakin Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fasakinhenry&icon_color=87ff87&hide_border=true&text_color=87ff87&title_color=87ff87&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&hide_border=true&text_color=87ff87&title_color=87ff87&layout=compact&theme=transparent)
@@ -81,17 +93,6 @@ I'm an indie full-stack developer and content creator building my version of the
 ![Fasakin Henry's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fasakinhenry&stroke=87ff87&ring=87ff87&fire=87ff87&currStreakNum=87ff87&currStreakLabel=87ff87&sideNums=87ff87&sideLabels=87ff87&dates=87ff87&hide_border=true&theme=transparent)
 
 <br/>
-
-#
-
-- 🔭 I’m currently working on Labhood(A social media hub for developers)
-- 🌱 I’m currently learning Backend, Python and C.
-- 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
-- 🤔 I’m looking for help with Funding
-- 💬 Ask me about Tech(web development, Design, Linux), God, Music.
-- 📫 How to reach me: You can reach me via my email fasakinhenry@gmail.com or my social platforms listed above.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that😜👍. I love Music, football, tech events and doing a lot of different hobbies. I mean the list seems endless. I am an all-in-one package.
 
 #
 

@@ -1,5 +1,6 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9xaGQ2NzRyaXhzZXdkaGUydzZuNXo3dndjcmFwbmR1bjRhZ2MzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" height="10%"/>
+![1716317525603-1c432c40-7d18-f472-3264-c973b5cf42d4](https://github.com/fasakinhenry/fasakinhenry/assets/138019892/0ae5265d-ffe9-40e1-b5c4-7bff50638bea)
 # 🏄‍♂️ Fasakin Henry
+
 
 **`Digital Craftsman (Developer/Product designer/Creator)`**
 

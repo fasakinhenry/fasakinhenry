@@ -37,6 +37,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
+- 💻 I am highly engaged with building for the Pipeops Hackathon
 - 🔭 I’m currently working on **Payham**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Labhood**(A social media hub for developers)
 - 🌱 I’m learning Web technologies, Backend, Python, and C.
 - 💻 I'm currently part of the Wema Hackaholics and Pipeops Hackathon

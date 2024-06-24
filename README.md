@@ -110,4 +110,8 @@ d
 
 #
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6661b684b998f3b3c7eb6531?variant=dark)](https://roadmap.sh)
+
+#
+
 [![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/fasakinhenry)

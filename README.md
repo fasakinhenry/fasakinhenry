@@ -37,17 +37,16 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-- 💻 I am building Pipance during Buildspace s5
+- 💻 I am building KnowBash
 - 👩‍💻 I am trying to relearn web development from Roadmap.sh
 - 🔭 I’m currently working on **Begg**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Labhood**(A social media hub for developers)
 - 🌱 I’m learning Web technologies, Backend, Python, and C.
-- 💻 I'm currently part of the Wema Hackaholics and Pipeops Hackathon
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
 - 🤔 I’m looking for help with Funding
 - 💬 Ask me about Tech(web development, Design, Linux), God, Music.
 - 📫 How to reach me: You can reach me via my email fasakinhenry@gmail.com or my social platforms
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that😜👍. I love Music, football, tech events, and many different hobbies. I mean the list seems endless. I am an all-in-one package.
+- ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that😜👍. I love music, football, tech events, and many other hobbies. I mean the list seems endless. I am an all-in-one package.
 
 #
 

@@ -37,7 +37,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-- 💻 I am building **KnowBash** and **Ubiquitous**
+- 💻 I am building **KnowBash**, **consolver**, **Pipance**, **Doclax** and **Ubiquitous**
 - 👩‍💻 I am trying to relearn web development from Roadmap.sh
 - 🔭 I’m currently working on **Begg**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Labhood**(A social media hub for developers)
 - 🌱 I’m learning Web technologies, Backend, Python, and C.

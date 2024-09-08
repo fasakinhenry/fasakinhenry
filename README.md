@@ -39,7 +39,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 - 😴 I am busy with ALX software Engineering
 - 💻 I am building **KnowBash**, **consolve**, **Pipance**, **Doclax** and **Ubiquitous** on the side
-- 👩‍💻 I am trying to relearn web development from Roadmap.sh
+- 👩‍💻 I am trying to relearn web development from Roadmap.sh and data manipulation with shell
 - 🔭 I’m currently working on **Begg**(An innovative fintech application designed to provide financial inclusion across Africa and globally) and **Labhood**(A social media hub for developers)
 - 🌱 I’m learning Web technologies, Backend, Python, and C.
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups

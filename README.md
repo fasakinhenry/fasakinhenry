@@ -123,4 +123,10 @@ d
 
 #
 
+<a href="https://cloud.appwrite.io/card/65d9dfaa35769b082108">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=65d9dfaa35769b082108" alt="Appwrite Cloud Card" />
+</a>
+
+#
+
 [![Henry fasakin's gitartwork](gitartwork.svg)](https://github.com/fasakinhenry)

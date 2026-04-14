@@ -80,7 +80,12 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Caresync 1- Hackshark, Burning Heroes Hackathon](https://ytcards.demolab.com/?id=_0cHsIVPU7k&title=Caresync+1-+Hackshark%2C+Burning+Heroes+Hackathon&lang=en&timestamp=1736678810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Caresync 1- Hackshark, Burning Heroes Hackathon")](https://www.youtube.com/watch?v=_0cHsIVPU7k)
+[![Audiomack Video downloader | Work in Progress](https://ytcards.demolab.com/?id=xpQkaaA7K_Y&title=Audiomack+Video+downloader+%7C+Work+in+Progress&lang=en&timestamp=1727463674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Audiomack Video downloader | Work in Progress")](https://www.youtube.com/watch?v=xpQkaaA7K_Y)
+[![Caresync - Hacksharks hackathon](https://ytcards.demolab.com/?id=bbit5rfE0Zk&title=Caresync+-+Hacksharks+hackathon&lang=en&timestamp=1713993864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Caresync - Hacksharks hackathon")](https://www.youtube.com/watch?v=bbit5rfE0Zk)
+[![Caresync - Bridging healthcare gaps with technology](https://ytcards.demolab.com/?id=Svzr9FkTX80&title=Caresync+-+Bridging+healthcare+gaps+with+technology&lang=en&timestamp=1711904703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Caresync - Bridging healthcare gaps with technology")](https://www.youtube.com/watch?v=Svzr9FkTX80)
+[![Beggscaler - All in one startup for every ecosystem](https://ytcards.demolab.com/?id=-VtdlxUXNLY&title=Beggscaler+-+All+in+one+startup+for+every+ecosystem&lang=en&timestamp=1710696591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Beggscaler - All in one startup for every ecosystem")](https://www.youtube.com/watch?v=-VtdlxUXNLY)
+[![How to clone GitHub Repository using SSH - Step-by-Step Guide](https://ytcards.demolab.com/?id=4V9i0coIDQU&title=How+to+clone+GitHub+Repository+using+SSH+-+Step-by-Step+Guide&lang=en&timestamp=1706480867&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to clone GitHub Repository using SSH - Step-by-Step Guide")](https://www.youtube.com/shorts/4V9i0coIDQU)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-87ff87?style=for-the-badge&logo=video&logoColor=287bff"/>](https://www.youtube.com/@henqsoft?sub_confirmation=1)
